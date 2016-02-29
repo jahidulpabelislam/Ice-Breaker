@@ -1,0 +1,10 @@
+bin\Debug\Breakout.exe
+bin\Debug\Breakout.pdb
+bin\Debug\Breakout.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Breakout.gameMain.resources
+obj\Debug\Breakout.Resources.resources
+obj\Debug\Breakout.vbproj.GenerateResource.Cache
+obj\Debug\Breakout.exe
+obj\Debug\Breakout.xml
+obj\Debug\Breakout.pdb

@@ -1,0 +1,11 @@
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\obj\Debug\Breakout.exe
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\obj\Debug\Breakout.xml
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\obj\Debug\Breakout.pdb
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\bin\Debug\Breakout.exe
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\bin\Debug\Breakout.pdb
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\bin\Debug\Breakout.xml
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\obj\Debug\Breakout.gameMain.resources
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\obj\Debug\Breakout.Resources.resources
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\obj\Debug\ResGen.read.1.tlog
+C:\Users\kol40132197\Documents\Visual Studio 2010\Projects\Breakout\Breakout\obj\Debug\ResGen.write.1.tlog
